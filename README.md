@@ -14,7 +14,7 @@ I tried reading up on the existing code, but my gut said to rewrite it. So this 
 When I shared I was going to give this a shot, others suggested I'd put a Donate link on this repo.
 So, if you feel like it, buy me a cup of motivational coffee 😊☕️
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=59LH5AHNQ8XZW) 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=TH6XU7Q5J3B8G) 
 
 ## Build Plugin
 
