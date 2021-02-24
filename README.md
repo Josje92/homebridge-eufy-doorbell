@@ -1,10 +1,9 @@
 
-<div style="display: grid; align-items: center; justify-items: center; grid-template-columns: 1fr 1fr;">
+<p float="left">
+  <img src="https://github.com/homebridge/branding/raw/master/logos/homebridge-wordmark-logo-vertical.png" height="150">
+  <img src="https://images-na.ssl-images-amazon.com/images/I/51Xg1huybKL.png" height="150">
+</p>
 
-<img src="https://github.com/homebridge/branding/raw/master/logos/homebridge-wordmark-logo-vertical.png" height="150">
-<img src="https://images-na.ssl-images-amazon.com/images/I/51Xg1huybKL.png" height="100">
-
-</div>
 
 # Homebridge Eufy Doorbell
 
