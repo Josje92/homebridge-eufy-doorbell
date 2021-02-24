@@ -8,7 +8,7 @@
 # Homebridge Eufy Doorbell
 
 I bought a Eufy Doorbell and had high hopes for the Homebridge plugin for it. After installing I saw it was quite buggy still.
-I tried reading up on the existing code, but my gut said to rewrite it. So this is my attemt at it!
+I tried reading up on the existing code, but my gut said to rewrite it. So this is my attempt at it!
 
 When I shared I was going to give this a shot, others suggested I'd put a Donate link on this repo.
 So, if you feel like it, buy me a cup of motivational coffee 😊☕️
